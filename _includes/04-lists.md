@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+Like:
+  * Pizza
+  * Fruit Salad
+
+Love:
+  - Water ❤️
